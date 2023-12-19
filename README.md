@@ -2,7 +2,7 @@
 
 This SQL project provides a comprehensive analysis of ***online music store sales data*** using SQL queries. This analysis is based on structured question sets to guide the exploration of the music playlist database. In this project I analysed sales, customer behavior, genres, and more with three levels of difficulty.
 
-## Objetive -:
+## Objective -:
 In this project I have examine the dataset with SQL and help the store understand its business growth.
 
 ## Database -:
